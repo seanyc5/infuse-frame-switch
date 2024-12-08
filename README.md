@@ -13,8 +13,13 @@ Automatically switches your display's refresh rate to 24Hz when Infuse is runnin
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/infuse-frame-switch
+git clone https://github.com/seanyc5/infuse-frame-switch
 cd infuse-frame-switch
+
+
+
+# Run the installer  -- This should install for you if not manual instructions below. 
+./install.sh
 ```
 
 2. Install displayplacer using Homebrew:
